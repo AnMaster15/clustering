@@ -59,8 +59,6 @@ The clustering results were visualized using 2D projections post-PCA to demonstr
 - **Optimal clustering was achieved with 3 clusters**, matching the expected number of seed types in the dataset.
 - **Silhouette analysis confirmed** the quality of clustering, with the best score achieved using K-Means after full preprocessing.
 
-> **Recommendation**: For similar datasets, use K-Means with proper normalization and dimensionality reduction to ensure the best clustering performance.
-
 ---
 
 ## 📄 PDF Report
