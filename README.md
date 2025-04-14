@@ -39,7 +39,7 @@ Each algorithm was tested under four preprocessing scenarios:
 |----------|-------------|
 | **Best Clustering Algorithm** | K-Means (with T+N+PCA) |
 | **Best Number of Clusters** | 3 |
-| **Best Silhouette Score** | ~0.61 (K-Means with T+N+PCA) |
+| **Best Silhouette Score** | ~0.32 (K-Means with T+N+PCA) |
 
 K-Means performed consistently well across all preprocessing combinations. Using all three steps — transformation, normalization, and PCA — led to the highest silhouette score, indicating well-formed clusters.
 
